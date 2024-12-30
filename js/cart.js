@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
       cartItemsContainer.appendChild(cartItem);
       total += product.total;
     });
-    
-    cartTotal.textContent = `${total.toFixed(2)}`;
+  
+    cartTotal.trxtContent = `${total.toFixed(2)}`;
 
   }
 
