@@ -11,7 +11,7 @@ const products = [
     name: "Celular Motorola G85",
     description: "256BG, 8RAM, 5000mAh, 50MP",
     price: 6390,
-    img: '../img/2.jpeg'
+    img: 'img/2.jpeg'
   },
   {
     id: 3,
