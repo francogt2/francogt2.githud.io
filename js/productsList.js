@@ -4,7 +4,7 @@ const products = [
     name: "Celular Samsung Galaxy A05",
     description: "128GB, 4GM RAM, 5000mAh, 50MP",
     price: 1990,
-    img: 'img/1.jpeg'
+    img: 'img/2.jpeg'
   },
   {
     id: 2,
